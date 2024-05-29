@@ -1,2 +1,2 @@
 # blog-preview-card
-responsive design of a blog with html and css
+responsive design of a blog card with html and css
